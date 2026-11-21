@@ -10,4 +10,4 @@ Except where an existing license or applicable law permits the use, obtain writt
 
 Upstream project names, logos, and artwork belong to their respective owners.
 
-Direct permission requests to [Bob Prendergast (@bprendie)](https://github.com/bprendie).
+Direct permission requests to [Bob Prendergast (@we4zl)](https://github.com/we4zl).
