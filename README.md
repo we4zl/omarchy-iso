@@ -168,3 +168,7 @@ Run `./bin/omarchy-iso-upload [release/omarchy.iso]`. This requires rclone confi
 ## Full release of the ISO
 
 Run `./bin/omarchy-iso-release VERSION` to create, test, sign, and upload the ISO in one flow. Add `--rc` to release an RC build instead.
+
+## WEAZL and WE4ZL branding
+
+Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
